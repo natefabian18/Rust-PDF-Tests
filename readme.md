@@ -1,0 +1,1 @@
+Using [genpdf](https://crates.io/crates/genpdf) How fast can we get a PDF to generate?
